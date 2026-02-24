@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou a Tainara
 
-<!--
-**tainararcs/tainararcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou Estudante de Sistemas para Internet no IFSEMG com foco em Backend, Automação e Integração de Sistemas e interesse em Segurança da Informação  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-AI_Framework-5A67D8?style=for-the-badge)
+
+
+## Competências Técnicas
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=protocols.io&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-2E8B57?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-FF8C00?style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache-CA2133?style=for-the-badge&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Squid Proxy](https://img.shields.io/badge/Squid-4682B4?style=for-the-badge)
+
+## Certificações
+![Cisco](https://img.shields.io/badge/Cisco-Redes-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Linux](https://img.shields.io/badge/Cisco-Linux-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Python](https://img.shields.io/badge/Cisco-Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco C](https://img.shields.io/badge/Cisco-C-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+## Contato
+
+- LinkedIn: www.linkedin.com/in/tainara-carvalho-52153a199
+- Email: tainararobertacarvalho@gmail.com
