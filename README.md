@@ -12,9 +12,10 @@ Atualmente sou Estudante de Sistemas para Internet no IFSEMG com foco em Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-AI_Framework-5A67D8?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white)
