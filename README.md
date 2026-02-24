@@ -13,7 +13,6 @@ Atualmente sou Estudante de Sistemas para Internet no IFSEMG com foco em Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-AI_Framework-5A67D8?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
