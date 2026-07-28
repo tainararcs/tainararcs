@@ -11,21 +11,22 @@
 Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.   
 
 <br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=hibernate,fastapi,flask,js,react,git,vscode,mysql,postgresql,linux,docker,selenium,brownserless,chatwoot,n8n" />
+  <img src="https://skillicons.dev/icons?i=hibernate" width="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" width="40"/>
 </p>
-
-###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/tainararcs/tainararcs/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
-
-###
-
-<p data-importer="text" align="left"></p>
-
 <br>
 
 <div>
