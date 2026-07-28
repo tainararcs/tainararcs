@@ -1,14 +1,10 @@
 # Olá, eu sou a Tainara
 
-🎓 Estudante de **Sistemas para Internet** no IFSEMG.
-
-**Foco de Estudos:**
+- Estudante de **Sistemas para Internet** no IFSEMG
 - Backend Development
 - Automação e Integração de Sistemas
 - Machine Learning & NLP
 - Segurança da Informação
-
-Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.    
 
 <br>
 <p align="center">
