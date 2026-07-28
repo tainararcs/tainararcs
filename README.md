@@ -8,10 +8,12 @@
 - Machine Learning & NLP
 - Segurança da Informação
 
-Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.   
+Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.    
 
 <br>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=tomcat" width="35"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="35"/>
   <img src="https://skillicons.dev/icons?i=hibernate" width="35"/>
   <img src="https://skillicons.dev/icons?i=fastapi" width="35"/>
   <img src="https://skillicons.dev/icons?i=flask" width="35"/>
@@ -22,6 +24,8 @@ Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.
   <img src="https://skillicons.dev/icons?i=linux" width="35"/>
   <img src="https://skillicons.dev/icons?i=docker" width="35"/>
   <img src="https://skillicons.dev/icons?i=selenium" width="35"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="35"/>
+  <img src="https://skillicons.dev/icons?i=tomcat" n8n="35"/>
 </p>
 
 <div data-importer="stats" align="center">
