@@ -6,7 +6,6 @@
 - Machine Learning & NLP
 - Segurança da Informação
 
-<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tomcat" width="35"/>
   <img src="https://skillicons.dev/icons?i=spring" width="35"/>
@@ -27,7 +26,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/tainararcs/tainararcs/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
-<br>
 
 <div>
   <a href="https://www.linkedin.com/in/tainara-carvalho-52153a199" target="_blank">
