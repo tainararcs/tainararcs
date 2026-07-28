@@ -12,16 +12,16 @@ Buscando aplicar boas práticas de desenvolvimento e explorar novas tecnologias.
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=hibernate" width="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="40"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" width="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
-  <img src="https://skillicons.dev/icons?i=selenium" width="40"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="35"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="35"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="35"/>
+  <img src="https://skillicons.dev/icons?i=react" width="35"/>
+  <img src="https://skillicons.dev/icons?i=git" width="35"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="35"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="35"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="35"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="35"/>
+  <img src="https://skillicons.dev/icons?i=selenium" width="35"/>
 </p>
 
 <div data-importer="stats" align="center">
