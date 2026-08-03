@@ -1,8 +1,8 @@
 # Olá, eu sou a Tainara
 
 <div align="left">
-  - Estudante de Sistemas para Internet&emsp;&emsp;&emsp;&emsp;- Backend Development<br>
-  - Automação e Integração de Sistemas&&emsp;&emsp;&emsp;- Machine Learning & NLP<br>
+  - Estudante de Sistemas para Internet&emsp;&emsp;&emsp;&emsp; - Backend Development<br>
+  - Automação e Integração de Sistemas&emsp;&emsp;&emsp;&emsp;- Machine Learning & NLP<br>
   - Segurança da Informação
 </div><br>
 
