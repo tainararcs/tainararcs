@@ -33,11 +33,11 @@
 <div>
   <a href="https://www.linkedin.com/in/tainara-carvalho-52153a199" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25"/>
-    <!-- <span style="padding: 50;">linkedin.com/in/tainara-carvalho-52153a199</span> -->
+    <span style="padding: 80;">linkedin.com/in/tainara-carvalho-52153a199</span>
   </a>
- 
+  <br>
   <a href="mailto:tainararobertacarvalho@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="25" height="25"/>
-    <!-- <span style="padding: 50;">tainararobertacarvalho@gmail.com</span> -->
+    <span style="padding: 80;">tainararobertacarvalho@gmail.com</span>
   </a>
 </div>   
